@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;servlet.xore&apos; to &apos;servlet.core&apos;&#x0D;&#x0A;- Original project: &apos;Servlet4Demo&apos;&#x0D;&#x0A;- Original element: &apos;Servlet4Demo/src/main/java/servlet.xore&apos;&#x0D;&#x0A;- Renamed element: &apos;Servlet4Demo/src/main/java/servlet.core&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;servlet.xore&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;servlet.xore" name="servlet.core" qualified="false" references="true" stamp="1666925355952" textual="false" version="1.0"/>
+</session>

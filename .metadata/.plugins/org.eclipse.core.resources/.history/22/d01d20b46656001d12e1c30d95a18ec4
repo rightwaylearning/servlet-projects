@@ -1,0 +1,5 @@
+package my.servlets.classes;
+
+public class MyFirstServlet {
+
+}

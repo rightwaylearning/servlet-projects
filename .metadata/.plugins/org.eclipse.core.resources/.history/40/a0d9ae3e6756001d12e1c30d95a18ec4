@@ -1,0 +1,7 @@
+package servlet.core.functionality;
+
+import javax.servlet.Servlet;
+
+public class FirstServlet implements Servlet{
+
+}
